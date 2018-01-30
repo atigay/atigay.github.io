@@ -1,0 +1,40 @@
+.mainpic img {
+  width:100%;
+}
+ .visuals {
+   width:100%;
+ }
+
+ .visual h2 {
+   font-family: 'Poiret One', cursive;
+ }
+
+ .gallery_product {
+   margin-bottom: 30px;
+ }
+
+.trackimg {
+  width:100%;
+}
+
+.sounds {
+  font-family: 'Poiret One', cursive;
+  text-align: center;
+  font-size: 30px;
+}
+
+.soundtrack {
+  width:100%;
+}
+
+.headerimg img{
+  width:100%;
+}
+
+.index_body {
+  text-align: center;
+}
+
+.index_body h3 {
+  color: #dc3545;
+}
